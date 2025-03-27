@@ -9,12 +9,13 @@ O Instagram é uma das maiores redes sociais do mundo, onde usuários compartilh
 
 ## Conteúdo do Repositório
 - **Notebook Colab**: Um caderno interativo que contém todo o processo de análise dos dados.
-- **Dataset (se aplicável)**: Conjunto de dados limpos utilizados na análise.
+- **Dataset (se aplicável)**: Conjunto de dados do Kaggle limpos utilizados na análise.
 - **Gráficos e Visualizações**: Representações visuais para facilitar a compreensão dos insights obtidos.
 
 ## Tecnologias Utilizadas
 - **Python**
 - **Pandas**
+- **Numpy**
 - **Matplotlib & Seaborn** (para visualizações)
 - **Google Colab**
 
