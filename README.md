@@ -1,7 +1,5 @@
 # Instagram-Influencers-Analysis
-Dados dos principais influenciadores do Instagram
-
-# Dados dos Principais Influenciadores do Instagram (Limpos)
+## Dados dos principais influenciadores do Instagram
 
 ## Sobre o Projeto
 Este repositório contém uma análise de dados dos principais influenciadores do Instagram, realizada em um Notebook Python no Google Colab. O objetivo é explorar e entender os padrões de influência na plataforma, utilizando dados limpos para obter insights significativos.
